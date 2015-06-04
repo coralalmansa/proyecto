@@ -1,6 +1,0 @@
-package obrasAudiovisuales;
-
-public enum Paises {
-
-	ESPAÑA, EEUU, FRANCIA, REINO_UNIDO, ALEMANIA, RUSIA, CHINA, JAPON, ITALIA, ARGENTINA, CANADA, CHILE, INDIA, SUDAFRICA
-}
